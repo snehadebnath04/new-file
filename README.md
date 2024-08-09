@@ -1,4 +1,4 @@
 # firstgit
 this is my git repositary
 <br>
-author-sneha
+author-sneha debnath
